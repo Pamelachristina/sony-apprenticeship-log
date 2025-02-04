@@ -3,8 +3,6 @@ name: Generate Daily Log
 on:
   schedule:
     - cron: "30 19 * * *"  # Runs at 11:30 AM PST (7:30 PM UTC)
-
-
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -16,8 +14,9 @@ jobs:
 
       - name: Set up Git
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
       - name: Run daily log script
         run: |
@@ -26,4 +25,7 @@ jobs:
 
       - name: Push changes
         run: |
+          git add .
+          git commit -m "Automated daily log update" || echo "No changes to commit"
           git push origin main
+
