@@ -2,7 +2,8 @@ name: Generate Daily Log
 
 on:
   schedule:
-    - cron: "30 19 * * *"  # Runs at 11:30 AM PST (7:30 PM UTC)
+    - cron: "0 20 * * *"  # Runs at 12:00 PM PST (8:00 PM UTC)
+
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
