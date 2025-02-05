@@ -12,21 +12,34 @@ mkdir -p $LOG_DIR
 # Create the daily log file if it doesn't exist
 if [ ! -f "$LOG_FILE" ]; then
     cat > "$LOG_FILE" <<EOL
-# Daily Log - $TODAY
 
-### ✅ Tasks Completed
+# 📝 Daily Log - $TODAY
+
+## ✅ Tasks Completed
+- [ ]
+
+## 📖 Key Learnings
+📌 **New Concepts:**
 -
 
-### 📖 Key Learnings
+🛠 **New Tools & Tech:**
 -
 
-### ⚠️ Challenges
+## ⚠️ Challenges & Roadblocks
+❌ **Issues Faced:**
 -
 
-### 🔜 Next Steps
+🔍 **How I Plan to Solve It:**
 -
 
-### 🔗 Links/Resources
+## 🔜 Next Steps & Goals
+🎯 **To-Do for Tomorrow:**
+- [ ]
+
+📅 **Long-Term Goals:**
+-
+
+## 🔗 Useful Resources & Notes
 -
 
 ---
