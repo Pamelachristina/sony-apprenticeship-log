@@ -2,8 +2,7 @@ name: Generate Daily Log
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # Runs at 12:00 PM PST (8:00 PM UTC)
-
+    - cron: "0 9 * * *"  # Runs at 9:00 AM PST (8:00 PM UTC)
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -12,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures full history is available
 
       - name: Set up Git
         run: |
@@ -19,14 +20,21 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase || echo "No new changes to pull"
+
       - name: Run daily log script
         run: |
           chmod +x generate_log.sh
           ./generate_log.sh
 
-      - name: Push changes
+      - name: Add and commit changes
         run: |
           git add .
-          git commit -m "Automated daily log update" || echo "No changes to commit"
-          git push origin main
+          git commit -m "Automated daily log update - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+
+      - name: Push changes
+        run: |
+          git push origin main || echo "No changes to push"
 
