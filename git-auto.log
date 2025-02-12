@@ -6,3 +6,6 @@ fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
+From https://github.com/pamelachristina/sony-apprenticeship-log
+ * branch            main       -> FETCH_HEAD
+Already up to date.
