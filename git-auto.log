@@ -550,3 +550,8 @@ error: cannot pull with rebase: You have unstaged changes.
 error: please commit or stash them.
 No stash entries found.
 ❌ No stash to apply
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
