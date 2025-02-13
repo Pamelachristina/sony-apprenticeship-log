@@ -15,8 +15,10 @@ git stash pop || echo "❌ No stash to apply"
 
 
 # Add and commit new changes
-git add .
-git commit -m "Auto-sync commit on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+git add -A logs/*
+
+
+git commit -am "Auto-sync log updates on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No new log changes to commit"
 
 # Push to GitHub
 git push origin main || echo "No new changes to push"
