@@ -515,3 +515,8 @@ No stash entries found.
 To https://github.com/Pamelachristina/sony-apprenticeship-log.git
    8861553..cbc0108  main -> main
 ✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
