@@ -9,8 +9,10 @@ if [ ! -d ".git" ]; then
   exit 1
 fi
 
-# Pull the latest changes
+git stash push -m "Auto-stash before pulling latest changes"
 git pull origin main --rebase
+git stash pop || echo "❌ No stash to apply"
+
 
 # Add and commit new changes
 git add .
