@@ -49,3 +49,8 @@ remote:   https://github.com/Pamelachristina/sony-apprenticeship-log.git
 To https://github.com/pamelachristina/sony-apprenticeship-log.git
    c464d3a..57d0f41  main -> main
 ✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
