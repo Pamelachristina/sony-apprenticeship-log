@@ -9,3 +9,24 @@ fatal: not a git repository (or any of the parent directories): .git
 From https://github.com/pamelachristina/sony-apprenticeship-log
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main c464d3a] Auto-sync commit on 2025-02-12 15:55:00
+ Committer: Pamela Sanchez Hernandez <pamelasanchezhernandez@Pamelas-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Pamelachristina/sony-apprenticeship-log.git        
+To https://github.com/pamelachristina/sony-apprenticeship-log.git
+   1d3faa7..c464d3a  main -> main
+✅ Local Git auto-sync complete!
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
