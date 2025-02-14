@@ -1,0 +1,1247 @@
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+From https://github.com/pamelachristina/sony-apprenticeship-log
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main c464d3a] Auto-sync commit on 2025-02-12 15:55:00
+ Committer: Pamela Sanchez Hernandez <pamelasanchezhernandez@Pamelas-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Pamelachristina/sony-apprenticeship-log.git        
+To https://github.com/pamelachristina/sony-apprenticeship-log.git
+   1d3faa7..c464d3a  main -> main
+✅ Local Git auto-sync complete!
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[main 57d0f41] Auto-sync commit on 2025-02-12 16:00:00
+ Committer: Pamela Sanchez Hernandez <pamelasanchezhernandez@Pamelas-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 21 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Pamelachristina/sony-apprenticeship-log.git        
+To https://github.com/pamelachristina/sony-apprenticeship-log.git
+   c464d3a..57d0f41  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 9aac422] Auto-sync commit on 2025-02-12 16:05:00
+ Committer: Pamela Sanchez Hernandez <pamelasanchezhernandez@Pamelas-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   a9a0312..9aac422  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d58b021] Auto-sync commit on 2025-02-12 16:15:00
+ Committer: Pamela Sanchez Hernandez <pamelasanchezhernandez@Pamelas-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   f5a3fc9..d58b021  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 342aa1e] Auto-sync commit on 2025-02-12 16:25:00
+ Committer: Pamela Sanchez Hernandez <pamelasanchezhernandez@Pamelas-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   5c60da1..342aa1e  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 96460d5] Auto-sync commit on 2025-02-12 16:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   a5e6a1a..96460d5  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 84589a9] Auto-sync commit on 2025-02-12 16:45:11
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   e936955..84589a9  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main f73ad5e] Auto-sync commit on 2025-02-12 16:57:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   b00bb56..f73ad5e  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 96c3613] Auto-sync commit on 2025-02-12 17:05:26
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   1fbbf48..96c3613  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 224c9cc] Auto-sync commit on 2025-02-12 18:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   774ef93..224c9cc  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d183acf] Auto-sync commit on 2025-02-12 18:45:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   f7509c1..d183acf  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 3100d77] Auto-sync commit on 2025-02-12 18:55:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   e6908a6..3100d77  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 6c1cb13] Auto-sync commit on 2025-02-12 19:05:59
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   94b79e7..6c1cb13  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b963f66] Auto-sync commit on 2025-02-12 19:45:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   67ee918..b963f66  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 50c4df5] Auto-sync commit on 2025-02-12 19:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   d5a8de5..50c4df5  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 822d19f] Auto-sync commit on 2025-02-12 20:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0b95d48..822d19f  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 288788a] Auto-sync commit on 2025-02-12 20:10:38
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   6254a31..288788a  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main a88c29a] Auto-sync commit on 2025-02-12 20:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   cf5c0ad..a88c29a  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 81fd621] Auto-sync commit on 2025-02-12 20:25:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   3b981b1..81fd621  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 0b64e61] Auto-sync commit on 2025-02-12 20:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   74cc9c6..0b64e61  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main cd8ebfd] Auto-sync log updates on 2025-02-12 21:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   a5382e5..cd8ebfd  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ac8199d] Auto-sync log updates on 2025-02-12 21:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0da896d..ac8199d  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 3b2707c] Auto-sync log updates on 2025-02-12 21:15:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   c41087d..3b2707c  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main f764079] Auto-sync log updates on 2025-02-12 21:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   6579b4b..f764079  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 29c28f2] Auto-sync log updates on 2025-02-12 21:25:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   915a1b2..29c28f2  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 29f6144] Auto-sync log updates on 2025-02-12 21:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   259d929..29f6144  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 79976dd] Auto-sync log updates on 2025-02-12 23:29:59
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   9c9ac5b..79976dd  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main db44d9e] Auto-sync log updates on 2025-02-12 23:37:23
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   bb5e025..db44d9e  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b25a1f3] Auto-sync log updates on 2025-02-13 00:56:59
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   f79a6e2..b25a1f3  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main aded51b] Auto-sync log updates on 2025-02-13 03:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   5920e84..aded51b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c2a29e6] Auto-sync log updates on 2025-02-13 03:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   242c56e..c2a29e6  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 278308a] Auto-sync log updates on 2025-02-13 04:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   ce13946..278308a  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ff1e866] Auto-sync log updates on 2025-02-13 04:10:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   7048f49..ff1e866  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 5fac031] Auto-sync log updates on 2025-02-13 04:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   6d9b76a..5fac031  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 5765b10] Auto-sync log updates on 2025-02-13 04:30:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   ae27d2e..5765b10  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 0475614] Auto-sync log updates on 2025-02-13 05:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   2d9d8fe..0475614  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b5fa93b] Auto-sync log updates on 2025-02-13 07:01:34
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   f1b713d..b5fa93b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b772747] Auto-sync log updates on 2025-02-13 07:25:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   c2cddd7..b772747  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b8e086b] Auto-sync log updates on 2025-02-13 07:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   4752544..b8e086b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main dc0bcbe] Auto-sync log updates on 2025-02-13 07:45:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   bb7c985..dc0bcbe  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 59fce60] Auto-sync log updates on 2025-02-13 07:55:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   bfb3d12..59fce60  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main e137ae7] Auto-sync log updates on 2025-02-13 08:05:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   d6f9c1a..e137ae7  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 4e6c12b] Auto-sync log updates on 2025-02-13 08:15:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   b96ad79..4e6c12b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 6937936] Auto-sync log updates on 2025-02-13 08:25:26
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   879f4a0..6937936  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main cbc0108] Auto-sync log updates on 2025-02-13 08:38:59
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   8861553..cbc0108  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 177f4ef] Auto-sync log updates on 2025-02-13 08:45:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   2f75726..177f4ef  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 196e018] Auto-sync log updates on 2025-02-13 08:55:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   6a6255d..196e018  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 6b9c19b] Auto-sync log updates on 2025-02-13 09:05:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   3b07130..6b9c19b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 07a501f] Auto-sync log updates on 2025-02-13 09:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   cdaec00..07a501f  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main a7f74d7] Auto-sync log updates on 2025-02-13 09:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0009f12..a7f74d7  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 044e3e7] Auto-sync log updates on 2025-02-13 09:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   d2ee9ab..044e3e7  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ff00d10] Auto-sync log updates on 2025-02-13 09:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   b97e431..ff00d10  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 45a696c] Auto-sync log updates on 2025-02-13 10:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   90b35e0..45a696c  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c80f9a4] Auto-sync log updates on 2025-02-13 10:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   22422a4..c80f9a4  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d895437] Auto-sync log updates on 2025-02-13 10:20:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   88738ab..d895437  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 4bf9020] Auto-sync log updates on 2025-02-13 10:39:22
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   eaa688d..4bf9020  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main e11977e] Auto-sync log updates on 2025-02-13 10:47:26
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   95380fb..e11977e  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main f25ad4e] Auto-sync log updates on 2025-02-13 11:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   cf010b7..f25ad4e  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ef08d25] Auto-sync log updates on 2025-02-13 11:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   7bd1efc..ef08d25  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main a8daeb9] Auto-sync log updates on 2025-02-13 11:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   e8514ad..a8daeb9  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 46ed76c] Auto-sync log updates on 2025-02-13 11:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   093eb60..46ed76c  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main cc2ecca] Auto-sync log updates on 2025-02-13 11:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   5238bfe..cc2ecca  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c4c839d] Auto-sync log updates on 2025-02-13 12:00:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   7147b64..c4c839d  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 15b504f] Auto-sync log updates on 2025-02-13 12:10:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   99e3071..15b504f  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 2d415b0] Auto-sync log updates on 2025-02-13 12:39:47
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   026f689..2d415b0  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 5ce1c74] Auto-sync log updates on 2025-02-13 13:00:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   d92bbc9..5ce1c74  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ea41d5f] Auto-sync log updates on 2025-02-13 13:10:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   8040624..ea41d5f  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main aee38da] Auto-sync log updates on 2025-02-13 13:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   9ead24f..aee38da  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 9ff4d79] Auto-sync log updates on 2025-02-13 13:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   9377bcf..9ff4d79  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 8e003dc] Auto-sync log updates on 2025-02-13 13:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   8bee5b1..8e003dc  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main cadd08c] Auto-sync log updates on 2025-02-13 13:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   652ad04..cadd08c  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 3a2d51b] Auto-sync log updates on 2025-02-13 14:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   c3f4992..3a2d51b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 3b40c4b] Auto-sync log updates on 2025-02-13 14:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   21345b6..3b40c4b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 6d4562a] Auto-sync log updates on 2025-02-13 14:40:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   811c1cd..6d4562a  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 2ab748d] Auto-sync log updates on 2025-02-13 15:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   f1d02a6..2ab748d  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main f634333] Auto-sync log updates on 2025-02-13 15:30:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   dd4a644..f634333  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 62bf7e4] Auto-sync log updates on 2025-02-13 15:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   ca8b2a4..62bf7e4  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 297abff] Auto-sync log updates on 2025-02-13 15:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   a6b8836..297abff  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main eb35618] Auto-sync log updates on 2025-02-13 16:00:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0833ad1..eb35618  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c99d4ae] Auto-sync log updates on 2025-02-13 16:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0b09423..c99d4ae  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 96168da] Auto-sync log updates on 2025-02-13 16:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   1750512..96168da  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d600a8e] Auto-sync log updates on 2025-02-13 16:40:00
+ 1 file changed, 5 insertions(+)
+fatal: unable to access 'https://github.com/Pamelachristina/sony-apprenticeship-log.git/': Recv failure: Connection reset by peer
+No new changes to push
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main e492436] Auto-sync log updates on 2025-02-13 17:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   cd2bc91..e492436  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ec5e570] Auto-sync log updates on 2025-02-13 17:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   e1996f0..ec5e570  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 4877671] Auto-sync log updates on 2025-02-13 18:02:06
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   335638a..4877671  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 9fdbebf] Auto-sync log updates on 2025-02-13 18:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   44e545b..9fdbebf  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main ff1a8a6] Auto-sync log updates on 2025-02-13 18:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   eae52d9..ff1a8a6  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d64d278] Auto-sync log updates on 2025-02-13 18:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   8af5a53..d64d278  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main cd0502b] Auto-sync log updates on 2025-02-13 18:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   df6b746..cd0502b  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c7ea9d6] Auto-sync log updates on 2025-02-13 18:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0d3c482..c7ea9d6  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 17f3d23] Auto-sync log updates on 2025-02-13 19:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   07516d0..17f3d23  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 0910d04] Auto-sync log updates on 2025-02-13 19:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   7e6c4a0..0910d04  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 8bd7ec6] Auto-sync log updates on 2025-02-13 19:25:40
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0b25130..8bd7ec6  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main a33e487] Auto-sync log updates on 2025-02-13 19:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   2b3a8e9..a33e487  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b1ab893] Auto-sync log updates on 2025-02-13 19:45:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   34b3d16..b1ab893  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 7174f0e] Auto-sync log updates on 2025-02-13 19:55:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   033adce..7174f0e  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main e944bb9] Auto-sync log updates on 2025-02-13 20:05:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   5920084..e944bb9  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main b7dcd44] Auto-sync log updates on 2025-02-13 20:15:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   8d8d41b..b7dcd44  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 13f3e5c] Auto-sync log updates on 2025-02-13 20:25:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   70f9a83..13f3e5c  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 6056007] Auto-sync log updates on 2025-02-13 20:35:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   33fa9c1..6056007  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 76b8670] Auto-sync log updates on 2025-02-13 20:45:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   b569bdd..76b8670  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 2078ea1] Auto-sync log updates on 2025-02-13 20:55:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   e799094..2078ea1  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 75ea4f8] Auto-sync log updates on 2025-02-13 21:05:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   07a1890..75ea4f8  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 762ce4f] Auto-sync log updates on 2025-02-13 21:15:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   b99deb9..762ce4f  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c497853] Auto-sync log updates on 2025-02-13 21:25:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   69afb70..c497853  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main e61c9cd] Auto-sync log updates on 2025-02-13 21:35:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   4034426..e61c9cd  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 0da2315] Auto-sync log updates on 2025-02-13 21:45:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   ed5cf3f..0da2315  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 8bbd9d0] Auto-sync log updates on 2025-02-13 21:55:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0834e31..8bbd9d0  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main f4c7f59] Auto-sync log updates on 2025-02-13 22:05:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   9215e45..f4c7f59  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d38cead] Auto-sync log updates on 2025-02-13 22:15:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   0d18665..d38cead  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c73d6b3] Auto-sync log updates on 2025-02-13 22:40:01
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   450139d..c73d6b3  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main c83e352] Auto-sync log updates on 2025-02-13 22:50:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   a74c2ba..c83e352  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 383a26d] Auto-sync log updates on 2025-02-13 23:00:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   50d07a7..383a26d  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 823f228] Auto-sync log updates on 2025-02-13 23:10:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   75b3904..823f228  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main d029e92] Auto-sync log updates on 2025-02-13 23:20:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   11395a4..d029e92  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 0cfd288] Auto-sync log updates on 2025-02-13 23:30:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   d19e071..0cfd288  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
+[main 13ea66d] Auto-sync log updates on 2025-02-13 23:40:00
+ 1 file changed, 5 insertions(+)
+To https://github.com/Pamelachristina/sony-apprenticeship-log.git
+   62f944e..13ea66d  main -> main
+✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
