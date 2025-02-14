@@ -890,3 +890,8 @@ No stash entries found.
 fatal: unable to access 'https://github.com/Pamelachristina/sony-apprenticeship-log.git/': Recv failure: Connection reset by peer
 No new changes to push
 ✅ Local Git auto-sync complete!
+No local changes to save
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+No stash entries found.
+❌ No stash to apply
