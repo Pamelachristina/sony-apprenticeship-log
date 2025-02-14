@@ -1,0 +1,3 @@
+*/5 * * * * /Users/psanchezhernandez/IdeaProjects/sony-apprenticeship-log/git-auto-push.sh >> /Users/psanchezhernandez/IdeaProjects/sony-apprenticeship-log/logs/cron_git_push.log 2>&1
+
+
