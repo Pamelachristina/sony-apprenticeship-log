@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the correct Git repository
-cd /Users/pamelasanchezhernandez/sony-apprenticeship-log || { echo "❌ Failed to enter repo"; exit 1; }
+cd /Users/psanchezhernandez/IdeaProjects/sony-apprenticeship-log || { echo "❌ Failed to enter repo"; exit 1; }
 
 # Verify we are inside a Git repository
 if [ ! -d ".git" ]; then
